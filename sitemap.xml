@@ -2,21 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ggyx.cf/</loc>
+    <lastmod>2021-07-13T11:23:38+08:00</lastmod>
+  </url><url>
+    <loc>https://ggyx.cf/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>https://ggyx.cf/%E8%81%94%E7%B3%BB/</loc>
+  </url><url>
     <loc>https://ggyx.cf/post/</loc>
     <lastmod>2021-07-13T11:23:38+08:00</lastmod>
   </url><url>
     <loc>https://ggyx.cf/post/test/</loc>
     <lastmod>2021-07-13T11:23:38+08:00</lastmod>
   </url><url>
-    <loc>https://ggyx.cf/</loc>
-    <lastmod>2021-07-13T11:23:38+08:00</lastmod>
-  </url><url>
-    <loc>https://ggyx.cf/author/</loc>
+    <loc>https://ggyx.cf/authors/</loc>
   </url><url>
     <loc>https://ggyx.cf/categories/</loc>
+  </url><url>
+    <loc>https://ggyx.cf/tags/config/</loc>
+  </url><url>
+    <loc>https://ggyx.cf/tags/og/</loc>
+  </url><url>
+    <loc>https://ggyx.cf/page/</loc>
   </url><url>
     <loc>https://ggyx.cf/series/</loc>
   </url><url>
     <loc>https://ggyx.cf/tags/</loc>
+  </url><url>
+    <loc>https://ggyx.cf/%E6%90%9C%E7%B4%A2/</loc>
   </url>
 </urlset>

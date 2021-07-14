@@ -4,7 +4,24 @@
     <title>Tags on 广高影协</title>
     <link>https://ggyx.cf/tags/</link>
     <description>Recent content in Tags on 广高影协</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>广东高州中学摄影爱好者协会</copyright><atom:link href="https://ggyx.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ggyx.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration</title>
+      <link>https://ggyx.cf/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ggyx.cf/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>https://ggyx.cf/tags/og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ggyx.cf/tags/og/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
