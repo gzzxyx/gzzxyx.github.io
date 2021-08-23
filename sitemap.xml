@@ -2,35 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ggyx.cf/404.html</loc>
+    <loc>https://ggyx.cf/gallery/index.html</loc>
     
     <lastmod>2021-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ggyx.cf/gallery/index.html</loc>
-    
-    <lastmod>2021-08-22</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ggyx.cf/categories/index.html</loc>
-    
-    <lastmod>2021-08-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ggyx.cf/guestbook/index.html</loc>
-    
-    <lastmod>2021-08-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ggyx.cf/tags/index.html</loc>
     
     <lastmod>2021-08-22</lastmod>
     
@@ -44,6 +23,20 @@
   </url>
   
   <url>
+    <loc>https://ggyx.cf/tags/index.html</loc>
+    
+    <lastmod>2021-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ggyx.cf/guestbook/index.html</loc>
+    
+    <lastmod>2021-08-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ggyx.cf/2021/16107.html</loc>
     
     <lastmod>2021-08-22</lastmod>
@@ -51,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://ggyx.cf/2021/51866.html</loc>
+    <loc>https://ggyx.cf/2021/12882.html</loc>
     
     <lastmod>2021-08-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ggyx.cf/2021/12882.html</loc>
+    <loc>https://ggyx.cf/2021/51866.html</loc>
     
     <lastmod>2021-08-22</lastmod>
     
@@ -74,14 +67,14 @@
 
   
   <url>
-    <loc>https://ggyx.cf/tags/%E6%8B%9B%E6%96%B0/</loc>
+    <loc>https://ggyx.cf/tags/%E7%BD%91%E7%AB%99%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ggyx.cf/tags/%E7%BD%91%E7%AB%99%E5%8A%9F%E8%83%BD/</loc>
+    <loc>https://ggyx.cf/tags/%E6%8B%9B%E6%96%B0/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
