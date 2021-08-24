@@ -4,7 +4,7 @@
   <url>
     <loc>https://ggyx.cf/2021/51866.html</loc>
     
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-08-24</lastmod>
     
   </url>
   
@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://ggyx.cf/guestbook/index.html</loc>
+    <loc>https://ggyx.cf/categories/index.html</loc>
     
     <lastmod>2021-08-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ggyx.cf/about/index.html</loc>
+    <loc>https://ggyx.cf/guestbook/index.html</loc>
     
     <lastmod>2021-08-22</lastmod>
     
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://ggyx.cf/categories/index.html</loc>
+    <loc>https://ggyx.cf/about/index.html</loc>
     
     <lastmod>2021-08-22</lastmod>
     
@@ -60,7 +60,7 @@
 
   <url>
     <loc>https://ggyx.cf/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,14 +68,14 @@
   
   <url>
     <loc>https://ggyx.cf/tags/%E7%BD%91%E7%AB%99%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ggyx.cf/tags/%E6%8B%9B%E6%96%B0/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,14 +84,14 @@
   
   <url>
     <loc>https://ggyx.cf/categories/%E7%BD%91%E7%AB%99%E5%8A%A8%E6%80%81/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ggyx.cf/categories/%E6%8B%9B%E6%96%B0/</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
